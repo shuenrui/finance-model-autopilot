@@ -1,0 +1,11 @@
+# NEVER commit workbook files or extracted observations (financial data stays private)
+*.xlsx
+*.xls
+*.csv
+!docs/examples/*.csv
+observations/
+snapshots/
+*.duckdb
+*.parquet
+__pycache__/
+.venv/
