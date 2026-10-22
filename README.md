@@ -42,7 +42,8 @@ Details in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 | Component | State |
 |---|---|
-| Architecture spec | ✅ this repo |
+| Architecture spec | ✅ [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) |
+| Build plan (milestones M0–M6) | ✅ [`docs/BUILD_PLAN.md`](docs/BUILD_PLAN.md) |
 | L2 snapshot extraction (POC) | 🚧 `scripts/snapshot_poc.py` |
 | L3 store (DuckDB schema) | ⬜ |
 | L2 dependency map | ⬜ |
